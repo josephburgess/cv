@@ -1,6 +1,6 @@
 ## [Joseph Burgess](https://www.linkedin.com/in/josephburgessmba/) 💻
 
-**TL;DR:** A former banking, finance and investor communications professional that recently discovered that coding comes naturally to me and allows me to use both my creative and analytical skills in a positive way. I am bringing an abundance of transferrable experience, professionalism and soft-skills to a new career in software engineering.
+**TL;DR:** A former banking, finance and investor communications professional bringing an abundance of transferrable experience, professionalism and soft-skills to a new career in software engineering.
 
 [About](#about-) | [Skills](#skills-) | [Projects](#projects-) |
 [Experience](#experience-) | [Education](#education-)
