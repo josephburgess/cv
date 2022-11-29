@@ -29,34 +29,39 @@ XXX
 
 ## Experience 💼
 
-**Houston** (London, UK | November 2021 to November 2022)
+**Houston**, _Associate Partner_
 
-_Associate Partner_
-
-- XXX
-
-**Yellow Jersey PR** (London, UK | September 2016 to November 2021)
-_Associate Partner_
+London, UK | November 2021 to November 2022
 
 - XXX
 
-**Hudson Sandler** (London, UK | September 2015 to September 2016)
-_Account Executive_
+**Yellow Jersey PR**, _Associate Partner_
+
+London, UK | September 2016 to November 2021
 
 - XXX
 
-**Morgan Stanley** (New York City, USA | August 2014 to August 2015)
-_Analyst_
+**Hudson Sandler**, _Account Executive_
+
+London, UK | September 2015 to September 2016
 
 - XXX
 
-**Liberty International** (Sydney, Australia & Singapore, Singapore | August 2012 to August 2013)
-_Assistant Underwriter_
+**Morgan Stanley**, _Analyst_
+
+New York City, USA | August 2014 to August 2015
 
 - XXX
 
-**SEGA of Europe** (London, UK | June 2008 to August 2011)
-_Quality Assurance Analyst_
+**Liberty International**, _Assistant Underwriter_
+
+Sydney, Australia & Singapore, Singapore | August 2012 to August 2013
+
+- XXX
+
+**SEGA of Europe**, _Quality Assurance Analyst_
+
+London, UK | June 2008 to August 2011
 
 - XXX
 
