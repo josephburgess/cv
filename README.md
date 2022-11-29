@@ -1,31 +1,25 @@
 ## [Joseph Burgess](https://www.linkedin.com/in/josephburgessmba/) 💻
 
-**TL;DR:** A former banking, finance and investor communications professional bringing an abundance of experience, professionalism and soft-skills to a new career in software engineering.
+**TL;DR:** I am a former banking, finance and investor communications professional. I recently discovered that coding comes naturally to me and allows me to use both my creative and analytical skills in a positive way, and I am bringing an abundance of transferrable experience, professionalism and soft-skills to a new career in software engineering.
 
 [About](#about-) | [Skills](#skills-) | [Projects](#projects-) |
 [Experience](#experience-) | [Education](#education-)
 
-<!-- **Social Media**: [Twitter]() | [LinkedIn](https://www.linkedin.com/in/josephburgessmba/) -->
-
-An analytical, logical thinker, with a background in both finance and communications, I recently discovered that coding comes naturally to me and allows me to use both my creative and analytical skills in a positive way. I am a self-starter and spent several months teaching myself the foundations of software engineering in my spare time outside of full-time work. I have used resources such as Codecademy and Udemy to gain foundational knowledge of JavaScript, Ruby, HTML, CSS, Node.js and Git/Github. Outside of this, frequently doing coding challenges on Codewars has given me an acute appreciation of beautifully clean code and test-driven development.
+**Social Media**: [LinkedIn](https://www.linkedin.com/in/josephburgessmba/)
 
 ## Skills 🤹
 
-#### Technically Minded
+#### Technically minded problem solver
 
-First experience with Computing was Windows 3.1 when I was
+My first computer was a Windows 3.1 PC in the 90s. Since then I have had a strong passion for computing and tech. I have frequently built PCs for myself and friends and family and used coding and scripting to automate tasks for convenience. Whenever I upgrade my PC the old box becomes the new NAS Home server, having taught myself to use Docker to self-host my media and cloud data. I also use services such as IFTT to automate and improve interactions between home devices.
 
-#### Communication
+#### Business savvy communicator
 
-Seven years in Financial PR and investor communications has given me XX
+I have spent seven years in Financial PR, helping hundreds of companies to communicate their investment case when seeking funding, both through public and private markets. This experience, along with time spent in investment banking while studying for my MBA has given me excellent communication skills and professionalism, as well as a keen understanding of what makes a good business.
 
-#### Problem Solving
+#### Self Starter
 
-Analytical XXx
-
-#### Self Taught
-
-Taught myself the fundamentals of JavaScript, Ruby, HTML, CSS, Node.js and Git/Github
+I am a self-starter and spent several months teaching myself the foundations of software engineering in my spare time outside of full-time work. I have used resources such as Codecademy and Udemy to gain foundational knowledge of JavaScript, Ruby, Docker, HTML, CSS, Node.js and Git/Github. Outside of this, frequently doing coding challenges on Codewars has given me an acute appreciation of beautifully clean code and test-driven development.
 
 ## Projects 📝
 
