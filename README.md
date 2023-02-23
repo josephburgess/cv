@@ -11,7 +11,13 @@
 
 #### Technically minded problem solver
 
-My first computer was a Windows 3.1 PC in the 90s. Since then I have had a strong passion for computing and tech. I have frequently built PCs for myself and friends and family and used coding and scripting to automate tasks for convenience. Whenever I upgrade my PC the old box becomes the new NAS Home server, having taught myself to use Docker to self-host my media and cloud data. I also use services such as IFTT to automate and improve interactions between home devices.
+Ever since I got my hands on my first Windows 3.1 PC in the 90s, I have been captivated by the incredible possibilities of computing and tech. I've always been eager to learn and have even built PCs for myself and my loved ones, while leveraging my coding and scripting skills to streamline everyday tasks. The thrill of learning never fades for me, and I'm always looking for new ways to challenge myself.
+
+My first computer was a Windows 3.1 PC in the 90s. Since then I have had a strong passion for computing and tech. I have frequently built PCs for myself and friends and family and used coding and scripting to automate tasks for convenience. 
+
+## Inquisitive tinkerer with a knack for automation!
+
+When I'm not busy building computers or learning new programming languages, I enjoy tinkering with home devices and finding ways to make them work smarter and better together. Services like IFTTT have been a game-changer for me, and I'm always on the lookout for new tools and resources to streamline and optimize my tech setup.
 
 #### Business savvy communicator
 
@@ -19,7 +25,9 @@ I have spent seven years in Financial PR, helping hundreds of companies to commu
 
 #### Self Starter
 
-I am a self-starter and spent several months teaching myself the foundations of software engineering in my spare time outside of full-time work. I have used resources such as Codecademy and Udemy to gain foundational knowledge of JavaScript, Ruby, Docker, HTML, CSS, Node.js and Git/Github. Outside of this, frequently doing coding challenges on Codewars has given me an acute appreciation of beautifully clean code and test-driven development.
+My drive to learn and grow is insatiable, and I've dedicated countless hours to self-teaching the fundamentals of software engineering. Sites like Codecademy and Udemy have been invaluable resources in my quest to expand my knowledge base and sharpen my skills. Completing coding challenges on platforms like Codewars has also given me a deep appreciation for clean, efficient code and the importance of test-driven development.
+
+Overall, I'm a highly motivated, enthusiastic tech-lover with a strong desire to take on new challenges, learn new skills, and make a meaningful impact in the world of tech.
 
 ## Projects 📝
 
@@ -40,7 +48,7 @@ Below is the full list of completed projects since I began my coding journey, in
 | [Battleships](https://github.com/josephburgess/battleships) | A two-player CLI battleship game built in Ruby. Bonus weekend challenge at the end of week two of Makers. | Ruby, Rspec | Introduction to more complex CLI apps and user I/O testing | 2 days | Solo |
 | [Student Directory](https://github.com/josephburgess/student-directory) | A command-line application for managing student information. | Ruby | An introduction to creating interactive CLI apps and my first small project at Makers Academy | 1 day | Solo |
 
-## Experience 💼
+## Professional Experience 💼
 
 [**Houston**](https://houston.co.uk/) - Associate Partner
 
