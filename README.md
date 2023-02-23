@@ -15,7 +15,7 @@ Ever since I got my hands on my first Windows 3.1 PC in the 90s, I have been cap
 
 My first computer was a Windows 3.1 PC in the 90s. Since then I have had a strong passion for computing and tech. I have frequently built PCs for myself and friends and family and used coding and scripting to automate tasks for convenience. 
 
-#### Inquisitive tinkerer with a knack for automation!
+#### Inquisitive tinkerer with a knack for automation
 
 When I'm not busy building computers or learning new programming languages, I enjoy tinkering with home devices and finding ways to make them work smarter and better together. Services like IFTTT have been a game-changer for me, and I'm always on the lookout for new tools and resources to streamline and optimize my tech setup.
 
