@@ -23,7 +23,7 @@ I have spent seven years in Financial PR, helping hundreds of companies to commu
 
 #### Self Starter
 
-My drive to learn and grow is insatiable, and I've dedicated countless hours to self-teaching the fundamentals of software engineering. Sites like Codecademy and Udemy have been invaluable resources in my quest to expand my knowledge base and sharpen my skills. Completing coding challenges on platforms like Codewars has also given me a deep appreciation for clean, efficient code and the importance of test-driven development.
+My drive to learn and grow is insatiable, and before fully taking the plunge with Makers I dedicated countless hours outside of my full time job to self-teaching the fundamentals of software engineering. Sites like Codecademy and Udemy were invaluable resources in my quest to expand my knowledge base and sharpen my skills. Completing coding challenges on platforms like Codewars also gave me a deep appreciation for clean, efficient code and the importance of test-driven development early in my journey.
 
 Overall, I'm a highly motivated, enthusiastic tech-lover with a strong desire to take on new challenges, learn new skills, and make a meaningful impact in the world of tech.
 
