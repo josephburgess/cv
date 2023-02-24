@@ -2,7 +2,7 @@
 
 **TL;DR:** A former banking, finance and investor communications professional bringing an abundance of transferrable experience, professionalism and soft-skills to a new career in software engineering.
 
-[About](#about-) | [Skills](#skills-) | [Projects](#projects-) |
+[Skills](#skills-) | [Projects](#projects-) |
 [Experience](#experience-) | [Education](#education-)
 
 **Contact**: 🔗 [LinkedIn](https://www.linkedin.com/in/josephburgessmba/) | 📧 [Email](mailto:josephburgess@gmail.com) | 📱 [WhatsApp](https://wa.me/447769325254?text=Hi%20Joe!,%20I%20saw%20your%20Github%20) |
