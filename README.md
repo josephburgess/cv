@@ -13,11 +13,9 @@
 
 Ever since I got my hands on my first Windows 3.1 PC in the 90s, I have been captivated by the incredible possibilities of computing and tech. I've always been eager to learn and have even built PCs for myself and my loved ones, while leveraging my coding and scripting skills to streamline everyday tasks. The thrill of learning never fades for me, and I'm always looking for new ways to challenge myself.
 
-My first computer was a Windows 3.1 PC in the 90s. Since then I have had a strong passion for computing and tech. I have frequently built PCs for myself and friends and family and used coding and scripting to automate tasks for convenience. 
-
 #### Inquisitive tinkerer with a knack for automation
 
-When I'm not busy building computers or learning new programming languages, I enjoy tinkering with home devices and finding ways to make them work smarter and better together. Services like IFTTT have been a game-changer for me, and I'm always on the lookout for new tools and resources to streamline and optimize my tech setup.
+When I'm not busy building computers or learning new programming languages, I enjoy tinkering with home devices and finding ways to make them work smarter and better together. Whenever I build a new PC, the old one becomes the home NAS server, where I host my media and files and run docker containers with services such as Jellyfin, Pi-Hole and Synology to serve my other devices. Platforms like IFTTT have been a game-changer for me, and I'm always on the lookout for new tools and resources to streamline and optimize my tech setup.
 
 #### Business savvy communicator
 
