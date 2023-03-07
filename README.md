@@ -29,6 +29,7 @@ Overall, I'm a highly motivated, enthusiastic tech-lover with a strong desire to
 
 ## Projects 📝
 
+
 | Project Name | Description | Technologies Used | Purpose/Goal | Project Duration |
 |--------------|-------------|-------------------|--------------|-----------------|
 | [Acebook Air](https://github.com/josephburgess/acebook-mern) | A social media app built with the MERN stack | MongoDB, Express.js, React, Node.js, MongoDB Atlas, Mongoose, Render(deployment), Multer, Jest, Cypress | Build a full-stack web application using the MERN stack and improve experience working in an agile, collaborative environment. | 2 weeks |
